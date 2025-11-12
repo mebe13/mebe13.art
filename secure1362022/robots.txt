@@ -1,3 +1,7 @@
 User-agent: *
 Allow: /
+<<<<<<< HEAD
 Sitemap: https://mebe13.art/sitemap.xml
+=======
+Sitemap: https://mebe13.art/secure1362022/sitemap.xml
+>>>>>>> 24710092f98a26ad09287a9e68ff82c142d55939

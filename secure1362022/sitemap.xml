@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://mebe13.art/index.html</loc></url>
   <url><loc>https://mebe13.art/ux-analytics.html</loc></url>
@@ -18,3 +19,65 @@
   <url><loc>https://mebe13.art/images/NFTS/dist/index6.html</loc></url>
   <url><loc>https://mebe13.art/images/NFTS/src/index.html</loc></url>
 </urlset>
+=======
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Página principal -->
+  <url>
+    <loc>https://mebe13.art/</loc>
+    <lastmod>2025-11-06</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- Portafolio principal -->
+  <url>
+    <loc>https://mebe13.art/secure1362022/index.html</loc>
+    <lastmod>2025-11-06</lastmod>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- Formulario de contacto -->
+  <url>
+    <loc>https://mebe13.art/secure1362022/form1/form.html</loc>
+    <lastmod>2025-11-06</lastmod>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- Proyecto NFTS -->
+  <url>
+    <loc>https://mebe13.art/secure1362022/images/NFTS/dist/index6.html</loc>
+    <lastmod>2025-11-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Proyecto BeMe Card -->
+  <url>
+    <loc>https://mebe13.art/secure1362022/images/card/dist/index2.html</loc>
+    <lastmod>2025-11-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Proyecto Casino -->
+  <url>
+    <loc>https://mebe13.art/secure1362022/images/casino/dist/index3.html</loc>
+    <lastmod>2025-11-06</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Certificados -->
+  <url>
+    <loc>https://mebe13.art/secure1362022/images/cert-go.pdf</loc>
+    <lastmod>2025-11-06</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://mebe13.art/secure1362022/images/cert-ux.pdf</loc>
+    <lastmod>2025-11-06</lastmod>
+    <priority>0.60</priority>
+  </url>
+
+</urlset>
+
+>>>>>>> 24710092f98a26ad09287a9e68ff82c142d55939
